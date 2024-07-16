@@ -1,4 +1,4 @@
-<h1>Hi, I'm Drew <br/><a href="https://www.linkedin.com/in/andrew-barber-cspo-csm-985a571a6/">Data and Project Management Professional</a>
+<h1>Hi, I'm Drew! <br/><a href="https://www.linkedin.com/in/andrew-barber-cspo-csm-985a571a6/">Data and Project Management Professional</a>
 <h2>👨‍💻 Analytics Projects:</h2>
 
 - <b>SQL</b>
