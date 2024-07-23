@@ -6,8 +6,8 @@
   - [World Life Expectancy Data Cleaning](https://github.com/drewsefe/SQL.Portfolio/blob/main/World%20Life%20Expectancy%20Data%20Cleaning.sql)
   - [Data Automation Project](https://github.com/drewsefe/SQL.Portfolio/blob/main/Automated%20Data%20Cleaning%20Project.sql)
 - <b>Python</b>
-  - [NFT Data Exploration](https://github.com/drewsefe/Python.Portfolio/blob/main/NFT%20Analysis.ipynb)
-  - [Automated File Sorting Project](https://github.com/drewsefe/Python.Portfolio/blob/main/File%20Sorter%20Automation.ipynb)
+  - [Crime Exploratory Data Analysis](https://github.com/drewsefe/Python/blob/main/Crime%20Analysis.ipynb)
+  - [Mass Email Automation](https://github.com/drewsefe/Python/blob/main/with_attachments.py)
 - <b>R</b>
   - [Medical Cost Regression Analysis](https://github.com/drewsefe/R-Studio.Portfolio/blob/main/Medical%20Cost%20Regression.R)
 <h2> 🤳 Connect with me:</h2>
