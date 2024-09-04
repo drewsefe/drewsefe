@@ -2,8 +2,8 @@
 <h2>👨‍💻 Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - [Sports Store Data Exploration](https://github.com/drewsefe/SQL.Portfolio/blob/main/Sports%20Store%20Sales.sql)
-  - [World Life Expectancy Data Cleaning](https://github.com/drewsefe/SQL.Portfolio/blob/main/World%20Life%20Expectancy%20Data%20Cleaning.sql)
+  - [Apple Music Data Cleaning](https://github.com/drewsefe/SQL/blob/main/Apple%20Music%20Data%20Cleaning.sql)
+  - [Apple Music Exploratory Analysis](https://github.com/drewsefe/SQL/blob/main/Apple%20Music%20Exploratory%20Analysis.sql)
   - [Data Automation Project](https://github.com/drewsefe/SQL.Portfolio/blob/main/Automated%20Data%20Cleaning%20Project.sql)
 - <b>Python</b>
   - [Crime Exploratory Data Analysis](https://github.com/drewsefe/Python/blob/main/Crime%20Analysis.ipynb)
