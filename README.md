@@ -9,7 +9,7 @@
   - [Crime Exploratory Data Analysis](https://github.com/drewsefe/Python/blob/main/Crime%20Analysis.ipynb)
   - [Mass Email Automation](https://github.com/drewsefe/Python/blob/main/with_attachments.py)
 - <b>R</b>
-  - [Medical Cost Regression Analysis](https://github.com/drewsefe/R-Studio.Portfolio/blob/main/Medical%20Cost%20Regression.R)
+  - [Apple Music Regression Analysis](https://github.com/drewsefe/R/blob/main/Apple%20Music%20Regression%20Analysis.R)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
