@@ -6,7 +6,7 @@
   - [Apple Music Exploratory Analysis](https://github.com/drewsefe/SQL/blob/main/Apple%20Music%20Exploratory%20Analysis.sql)
   - [Data Automation Project](https://github.com/drewsefe/SQL.Portfolio/blob/main/Automated%20Data%20Cleaning%20Project.sql)
 - <b>Python</b>
-  - [Crime Exploratory Data Analysis](https://github.com/drewsefe/Python/blob/main/Crime%20Analysis.ipynb)
+  - [Apple Music Data/Regression Analysis](https://github.com/drewsefe/Python/blob/main/Apple%20Music.ipynb)
   - [Mass Email Automation](https://github.com/drewsefe/Python/blob/main/with_attachments.py)
 - <b>R</b>
   - [Apple Music Regression Analysis](https://github.com/drewsefe/R/blob/main/Apple%20Music%20Regression%20Analysis.R)
